@@ -17,4 +17,8 @@ public class Test5 {
     public void doCollaborateTest() {
         System.out.println("Collaborate test");
     }
+
+    public void doSomeMistakeInTest() {
+        System.out.println("Do mistake!");
+    }
 }
