@@ -6,4 +6,8 @@ public class TestRebase2 {
         System.out.println("do test...");
     }
 
+    public void isTest() {
+        System.out.println("true or false?");
+    }
+
 }
