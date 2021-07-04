@@ -18,4 +18,8 @@ public class Test4 {
         System.out.println("Collaborate test");
     }
 
+    public void doSomeMistakeInTest() {
+        System.out.println("Do mistake!");
+    }
+
 }
