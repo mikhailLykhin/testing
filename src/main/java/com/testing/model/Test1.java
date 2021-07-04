@@ -9,4 +9,8 @@ public class Test1 {
     public void isTest() {
         System.out.println("true or false?");
     }
+
+    public void deleteTest() {
+        System.out.println("Delete this test");
+    }
 }
