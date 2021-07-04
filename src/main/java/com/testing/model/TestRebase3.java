@@ -1,6 +1,6 @@
 package com.testing.model;
 
-public class testRebase2 {
+public class TestRebase3 {
 
     public void doTest() {
         System.out.println("do test...");
