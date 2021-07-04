@@ -13,4 +13,9 @@ public class Test4 {
     public void deleteTest() {
         System.out.println("Delete this test");
     }
+
+    public void doCollaborateTest() {
+        System.out.println("Collaborate test");
+    }
+
 }
