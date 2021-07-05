@@ -10,4 +10,9 @@ public class TestRebase3 {
         System.out.println("true or false?");
     }
 
+    public void doSomeMistakeInTest() {
+        System.out.println("Do mistake!");
+    }
+
+
 }
