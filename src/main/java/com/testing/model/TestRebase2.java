@@ -10,8 +10,8 @@ public class TestRebase2 {
         System.out.println("true or false?");
     }
 
-    public void deleteTest() {
-        System.out.println("Delete this test");
+    public void doSomeMistakeInTest() {
+        System.out.println("Do mistake!");
     }
 
 }
